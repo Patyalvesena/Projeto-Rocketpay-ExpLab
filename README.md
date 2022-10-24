@@ -3,10 +3,6 @@ Projeto desenvolvido durante evento Explorer Lab #01
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
-
 ## Tecnologias utilizadas.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
